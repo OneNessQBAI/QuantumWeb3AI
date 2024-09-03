@@ -1,0 +1,11 @@
+openai
+web3
+argparse
+pygame
+speechrecognition
+gtts
+google-api-python-client
+requests
+pillow
+cirq
+numpy
